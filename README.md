@@ -1,5 +1,5 @@
 # I change React JS Landing Page Template as desired
-### <img src="./img" >
+### <img src="https://github.com/hoss-gan/React-Landing-Page-Template-master1/blob/main/img.png" >
 
 # React JS Landing Page Template
 
